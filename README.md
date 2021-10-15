@@ -35,7 +35,8 @@
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br><br>
+<br>
+<br>
 <p align="center">
   
 <img title="C" height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
