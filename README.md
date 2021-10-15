@@ -99,16 +99,14 @@
   <div align=center>
     <a href="https://github.com/yogesh2k21/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=yogesh2k21&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="yogesh2k21" />
-    </a>
+    </a><br>
     <a href="https://github.com/yogesh2k21/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=yogesh2k21&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a> <br>
-  <br>
+    </a> 
   </div>
   <br> <br>
   <br>
-  <br> <br>
-  <br> <br>
+ <br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> <br>
   <br> <br>
