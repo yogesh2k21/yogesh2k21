@@ -102,7 +102,7 @@
     </a><br>
     <a href="https://github.com/yogesh2k21/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=yogesh2k21&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a> 
+    </a> <br>
   </div>
   <br> <br>
   <br>
