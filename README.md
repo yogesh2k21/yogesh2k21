@@ -15,7 +15,6 @@
 <p align="center">
   👋 Hi, I’m Yogesh (yogesh2k21)
   <br>
-  <br>
   🔬 I'm a 3rd Year Student.
   <br>
   🎓 Currently studying for a Bachlor's degree in Computer Science and Engineering.
@@ -109,24 +108,3 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> <br>
   <img src="https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata" width="100%" />
 </p>
-
-<!--
-**yogesh2k21/yogesh2k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
