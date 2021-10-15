@@ -117,18 +117,18 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/yogesh2k21/4K-Wallpapers" title="4K-Wallpapers"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yogesh2k21/TechBlogs" title="TechBlogs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/yogesh2k21/4K-Wallpapers" title="4K-Wallpapers"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=4K-Wallpapers&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/yogesh2k21/TechBlogs" title="TechBlogs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=TechBlogs&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/yogesh2k21/Weather-App" title="Weather-App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yogesh2k21/TextManipulator" title="Text Manipulator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/yogesh2k21/Weather-App" title="Weather-App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=Weather-App&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/yogesh2k21/TextManipulator" title="Text Manipulator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=TextManipulator&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/yogesh2k21/React-TextUtils" title="React TextUtils"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yogesh2k21/NEWSPAD-" title="NEWSPAD"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=cpp-artificial-neural-networks&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/yogesh2k21/React-TextUtils" title="React TextUtils"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=React-TextUtils&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/yogesh2k21/NEWSPAD-" title="NEWSPAD"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=NEWSPAD-&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
