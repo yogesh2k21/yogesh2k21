@@ -35,7 +35,7 @@
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+<br><br>
 <p align="center">
   
 <img title="C" height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> 
@@ -96,7 +96,7 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br><br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -110,7 +110,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   <img src="https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata" width="80%" />
-</p>
+</p><br>
 
 <!--
 **yogesh2k21/yogesh2k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
