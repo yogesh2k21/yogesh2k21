@@ -107,10 +107,8 @@
 <br><br><br><br><br><br><br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> <br>
-  <br> <br>
-  <br>
-  <img src="https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata" width="80%" />
-</p><br>
+  <img src="https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata" width="100%" />
+</p>
 
 <!--
 **yogesh2k21/yogesh2k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
