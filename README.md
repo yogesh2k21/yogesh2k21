@@ -109,31 +109,8 @@
   <br><br><br><br><br><br><br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <img src="https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata" width="100%"/>
+  <img src="https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata" width="80%" />
 </p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yogesh2k21/4K-Wallpapers" title="4K-Wallpapers"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=4K-Wallpapers&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yogesh2k21/TechBlogs" title="TechBlogs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=TechBlogs&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yogesh2k21/Weather-App" title="Weather-App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=Weather-App&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yogesh2k21/TextManipulator" title="Text Manipulator"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=TextManipulator&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yogesh2k21/React-TextUtils" title="React TextUtils"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=React-TextUtils&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yogesh2k21/NEWSPAD-" title="NEWSPAD"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yogesh2k21&repo=NEWSPAD-&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/yogesh2k21?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 <!--
 **yogesh2k21/yogesh2k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
