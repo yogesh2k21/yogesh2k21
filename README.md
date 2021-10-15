@@ -97,16 +97,21 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/yogesh2k21/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=yogesh2k21&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="yogesh2k21" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    </a> <br>
+  <br> <br>
+  <br>
+    <a href="https://github.com/yogesh2k21/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=yogesh2k21&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  <br> <br>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> <br>
+  <br> <br>
+  <br>
   <img src="https://metrics.lecoq.io/yogesh2k21?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Kolkata" width="80%" />
 </p><br>
 
