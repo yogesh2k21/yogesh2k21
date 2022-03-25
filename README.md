@@ -25,7 +25,7 @@
   <br>
   📚 Recently I have learnt Django.
   <br>
-  📚 I’m currently learning MERN STACK.
+  📚 I’m currently learning NEXTJS.
   <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/yogesh2k21/" title="Askme">Here</a>
   <br>
@@ -67,7 +67,9 @@
 
 <img title="C" height="25" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 
-<img title="C" height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img title="C" height="25" src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  
+<img title="C" height="25" src="https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white">
 
 <img title="C" height="25" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 
