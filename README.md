@@ -15,7 +15,7 @@
 <p align="center">
   👋 Hi, I’m Yogesh (yogesh2k21)
   <br>
-  🔬 I'm a 3rd Year Student.
+  🔬 I'm a 3rd Year Student at Maharaja Agrasen Institute of Technology 🏫.
   <br>
   🎓 Currently studying for a Bachlor's degree in Computer Science and Engineering.
   <br>
