@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/yogesh2k21/" title="LinkedIn Profile"><img width="22" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/Yogesh_21" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"> HackerRank</a></code>
+  <!-- <code><a href="https://www.hackerrank.com/Yogesh_21" title="HackerRank Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"> HackerRank</a></code> -->
 </h5>
 <br>
 <p align="center">
