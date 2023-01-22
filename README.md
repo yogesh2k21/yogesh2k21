@@ -32,8 +32,10 @@
   📫 How to reach me: <a href="mailto: yogeshkr210@gmail.com">yogeshkr210@gmail.com</a>
 </p>
 
+<!-- [![Yogesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yogesh2k21&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/yogesh2k21/github-readme-activity-graph) -->
+
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 <br>
 <p align="center">
   
@@ -95,7 +97,7 @@
 
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
   <div align=center>
     <a href="https://github.com/yogesh2k21/github-readme-streak-stats" title="Go to Source">
@@ -107,5 +109,20 @@
   </div>
   <br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yogesh2k21&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> <br>
+   -->
+<!--    ## 📉 Monthly Contribution -->
+   <h2 align="center">⚡ Monthly Contribution ⚡</h2>
+<br>
+
+   [![Yogesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yogesh2k21&bg_color=0f2d3d&color=B287E3&line=38BDAC&point=70A4FC&area=true&hide_border=true")](https://github.com/yogesh2k21/github-readme-activity-graph)
+
+   
+<!--    ## 📈 Stats -->
+   <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yogesh2k21&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yogesh2k21&theme=tokyonight" />
 </p>
+  
+<!-- </p> -->
