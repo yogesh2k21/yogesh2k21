@@ -15,7 +15,7 @@
 <p align="center">
   👋 Hi, I’m Yogesh (yogesh2k21)
   <br>
-  🔬 I'm a 3rd Year Student at Maharaja Agrasen Institute of Technology 🏫.
+  🔬 I'm a final Year Student at Maharaja Agrasen Institute of Technology 🏫.
   <br>
   🎓 Currently studying for a Bachlor's degree in Computer Science and Engineering.
   <br>
@@ -23,9 +23,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 Recently I have learnt Django.
-  <br>
-  📚 I’m currently learning NEXTJS.
+  📚 I’m currently learning AWS.
   <br>
   💬 Ask me anything about from <a href="https://www.linkedin.com/in/yogesh2k21/" title="Askme">Here</a>
   <br>
